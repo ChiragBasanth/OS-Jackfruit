@@ -151,7 +151,7 @@ dmesg | grep container_monitor | tail -5
 
 **Screenshot 8 — Clean teardown, no zombies**
 
-<img width="1599" height="396" alt="image" src="https://github.com/user-attachments/assets/67c86c91-6b06-4ba5-a2e3-220cc6341595" />
+<img width="1567" height="589" alt="image" src="https://github.com/user-attachments/assets/19579bc4-8662-4917-ad8f-fd0eb67d0053" />
 
 
 
